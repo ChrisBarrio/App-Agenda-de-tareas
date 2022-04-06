@@ -1,24 +1,5 @@
 # app-tareas
 
-## Project setup
-```
-npm install
-```
+👇🏽📝                
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+https://624e031f748f1910480736f8--calm-parfait-7512a4.netlify.app/
