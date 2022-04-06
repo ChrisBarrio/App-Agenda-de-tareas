@@ -63,7 +63,7 @@ export default {
   background-image: url('https://i.pinimg.com/736x/d7/5c/75/d75c75ddaf9b22b5bf309cae8ae0fd5f.jpg');
   background-repeat: none;
   background-size: cover;
-  width: 800px;
+  width: 100%;
   height: 100vh;
   max-width: 100%;
   margin: 0px auto;
